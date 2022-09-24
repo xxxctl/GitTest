@@ -20,6 +20,8 @@
   
 9. 在新的分支将推荐资料复制，完成**第三次commit**
   
-10. 将zs2分支合并到zs1分支，解决文件冲突后，合并后如下图所示
+10. 将zs2分支合并到zs1分支，解决文件冲突后，合并后基本如下图所示
+
+![](images/2022-09-24-18-42-44-image.png)
   
 11. 将当前仓库内容push到远程仓库，基于自己repo向[KVM-Explorer/GitTest (github.com)](https://github.com/KVM-Explorer/GitTest)发起Pull Request请求，完成作业提交
